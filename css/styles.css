@@ -12,3 +12,7 @@ h1 {
 .ubuntu {
     font-family: 'Ubuntu';
 }
+
+.container-fluid {
+    padding: 3% 15%;
+}
