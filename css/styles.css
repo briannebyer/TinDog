@@ -108,3 +108,12 @@ nav-link {
 .carousel-item {
     padding: 7% 15%;
 }
+
+#pricing {
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
