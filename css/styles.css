@@ -130,6 +130,12 @@ nav-link {
     padding: 7% 15%;
 }
 
+#footer {
+    background-color: #fff ;
+    text-align: center;
+    padding: 7% 15%;
+}
+
 @media (max-width: 1020px) {
 
     #title {
