@@ -123,6 +123,13 @@ nav-link {
     padding: 3% 2%;
 }
 
+#cta {
+    background-color: #ff4c68 ;
+    color: #fff;
+    text-align: center;
+    padding: 7% 15%;
+}
+
 @media (max-width: 1020px) {
 
     #title {
